@@ -37,6 +37,9 @@ bochs-msvc-src.zip
 /bochs/.bochs.log
 /bochs/.bochs.out
 /bochs/vs2019
+/bochs/autom4te.cache
+/bochs/configure~
+/bochs/tags
 
 # /bochs/bios/
 /bochs/bios/Makefile
